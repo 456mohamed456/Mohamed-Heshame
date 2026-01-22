@@ -1,9 +1,9 @@
-<div align="center">
+<div align="center" width="50">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="10%" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="25%" /><br>
 
-<h1>Mohamed Hisham</h1>
-<h3>Ethical Hacker | Web Penetration Testing Student 🔐</h3>
+<h1>Hi, I'm Mohamed Hisham 👋</h1>
+<h3>Cybersecurity Student | Web Penetration Testing 🔐</h3>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS"/>
 
@@ -12,32 +12,40 @@
 ---
 
 ## 🧠 About Me
-I am a **Cybersecurity student** focused on **ethical hacking and web penetration testing**.  
-I learn security by **understanding systems deeply, then testing their weaknesses in a legal and controlled way**.
+- 🎓 Cybersecurity student  
+- 🎯 Currently focused on **Web Penetration Testing**
+- 🧪 Learning by doing labs & real scenarios  
+- 🏴‍☠️ Practicing daily on **TryHackMe**
+- ⚡ Interested in offensive security & CTFs  
 
-> Break to understand. Understand to defend.
+> I don’t just learn security — I break things to understand how to protect them.
 
 ---
 
-## 🎯 Current Focus
-- Web Penetration Testing
+## 🎯 Current Learning Focus
+- Web Pentesting Fundamentals
 - OWASP Top 10
-- HTTP / HTTPS & Web Internals
-- Linux for Offensive Security
-- Reconnaissance & Enumeration
-- TryHackMe (Hands-on Labs)
+- HTTP / HTTPS & Web Architecture
+- Linux for Pentesters
+- Recon & Enumeration
+- TryHackMe Labs & Paths
 
 ---
 
-## 🧠 Hacker Mindset
-- Recon before exploitation  
-- Manual testing over blind automation  
-- Understand the vulnerability, not just exploit it  
-- If I can explain it, I can break it  
+## 🛠 Tools & Technologies
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Burp](https://img.shields.io/badge/Burp_Suite-orange?style=flat)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+
+---
 
 ```bash
 # mindset.sh
-observe
-analyze
-test
-document
+while learning; do
+  practice
+  fail
+  learn
+done
