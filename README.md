@@ -12,14 +12,14 @@
 <h3>Cybersecurity Student • Web Penetration Testing 🔐</h3>
 
 <!-- TryHackMe Badge -->
-<a href="[https://tryhackme.com/p/Haxmed](https://tryhackme.com/p/mohamedhesham103)">
+<a href="https://tryhackme.com/p/mohamedhesham103">
 <img src="https://tryhackme-badges.s3.amazonaws.com/mohamedhesham103.png" alt="Your Image Badge" />
 </a>
 
 <br><br>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Haxmed&style=flat&color=orange&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=H&style=flat&color=orange&label=PROFILE+VIEWS"/>
 
 </div>
 
