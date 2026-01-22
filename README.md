@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="18%" />
 
-<h1>Mohamed Hisham</h1>
+<h1>Mohamed Hesham</h1>
 <h3>Cybersecurity Student • Web Penetration Testing 🔐</h3>
 
 <!-- TryHackMe Badge -->
